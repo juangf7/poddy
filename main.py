@@ -2,7 +2,7 @@
 # Fetarures:
 # 1. Download MP3 from youtube
 # 2. Uploads audio to server
-# 3. Updates the xml file in the server
+# 3. Updates the xml file in the server.
 
 from __future__ import unicode_literals
 import youtube_dl
