@@ -1,0 +1,90 @@
+<rss version="2.0">
+  <channel>
+    <title>My Podcast</title>
+    <description>Interesting stuff in found on youtube</description>
+    <link>http://www.labx.cz.com</link>
+    <language>en-us</language>
+    <pubDate>8th October</pubDate>
+    <item>
+      <title>Talking about #Bitcoin #Ethereum and #Altcoin mining with BitsBeTrippin another YouTuber</title>
+      <link>http://labx.cz/podcast/files/tHoVTs2AKNg.mp3</link>
+      <guid>http://labx.cz/podcast/files/tHoVTs2AKNg.mp3</guid>
+      <description>Esta es la descripcion</description>
+      <enclosure length="1" type="audio/mpeg" url="http://labx.cz/podcast/files/tHoVTs2AKNg.mp3" />
+      <category>Esta es la categoria</category>
+      <pubDate>08-10-2017 08:53</pubDate>
+    </item>
+    <item>
+      <title>Andreas Antonopoulos I Currency Wars and Bitcoin's Neutrality</title>
+      <link>http://labx.cz/podcast/files/a2Cgu85PK9I.mp3</link>
+      <guid>http://labx.cz/podcast/files/a2Cgu85PK9I.mp3</guid>
+      <description>Esta es la descripcion</description>
+      <enclosure length="1" type="audio/mpeg" url="http://labx.cz/podcast/files/a2Cgu85PK9I.mp3" />
+      <category>Esta es la categoria</category>
+      <pubDate>08-10-2017 09:18</pubDate>
+    </item>
+    <item>
+      <title>David P. Brown, rocket scientist; Richard Heart: Computational Fluid Dynamics SuperComputing Network</title>
+      <link>http://labx.cz/podcast/files/Z0yAl9i8avw.mp3</link>
+      <guid>http://labx.cz/podcast/files/Z0yAl9i8avw.mp3</guid>
+      <description>Esta es la descripcion</description>
+      <enclosure length="1" type="audio/mpeg" url="http://labx.cz/podcast/files/Z0yAl9i8avw.mp3" />
+      <category>Esta es la categoria</category>
+      <pubDate>08-10-2017 20:18</pubDate>
+    </item>
+    <item>
+      <title>Don&#8217;t Be Scared Of Functional Programming</title>
+      <link>http://labx.cz/podcast/files/bThEbBcrfKE.mp3</link>
+      <guid>http://labx.cz/podcast/files/bThEbBcrfKE.mp3</guid>
+      <description>Esta es la descripcion</description>
+      <enclosure length="1" type="audio/mpeg" url="http://labx.cz/podcast/files/bThEbBcrfKE.mp3" />
+      <category>Esta es la categoria</category>
+      <pubDate>08-10-2017 20:20</pubDate>
+    </item>
+    <item>
+      <title>$5200 Bitcoin price with Richard Heart</title>
+      <link>http://labx.cz/podcast/files/MZtF3uOnjxQ.mp3</link>
+      <guid>http://labx.cz/podcast/files/MZtF3uOnjxQ.mp3</guid>
+      <description>Esta es la descripcion</description>
+      <enclosure length="1" type="audio/mpeg" url="http://labx.cz/podcast/files/MZtF3uOnjxQ.mp3" />
+      <category>Esta es la categoria</category>
+      <pubDate>13-10-2017 16:34</pubDate>
+    </item>
+    <item>
+      <title>13 Reasons My Startup FAILED</title>
+      <link>http://labx.cz/podcast/files/OOTThZReAdA.mp3</link>
+      <guid>http://labx.cz/podcast/files/OOTThZReAdA.mp3</guid>
+      <description>Esta es la descripcion</description>
+      <enclosure length="1" type="audio/mpeg" url="http://labx.cz/podcast/files/OOTThZReAdA.mp3" />
+      <category>Esta es la categoria</category>
+      <pubDate>14-10-2017 19:26</pubDate>
+    </item>
+    <item>
+      <title>Hard Fork, C&#211;MO NO perder mis bitcoin en Noviembre? BITCOIN SEGWIT2X</title>
+      <link>http://labx.cz/podcast/files/X4s0STKOUnY.mp3</link>
+      <guid>http://labx.cz/podcast/files/X4s0STKOUnY.mp3</guid>
+      <description>Esta es la descripcion</description>
+      <enclosure length="1" type="audio/mpeg" url="http://labx.cz/podcast/files/X4s0STKOUnY.mp3" />
+      <category>Esta es la categoria</category>
+      <pubDate>19-10-2017 08:58</pubDate>
+    </item>
+    <item>
+      <title>Living in an Exponential World | Will Weisman | SingularityU Japan Summit</title>
+      <link>http://labx.cz/podcast/files/hVrViR6_XfE.mp3</link>
+      <guid>http://labx.cz/podcast/files/hVrViR6_XfE.mp3</guid>
+      <description>Esta es la descripcion</description>
+      <enclosure length="1" type="audio/mpeg" url="http://labx.cz/podcast/files/hVrViR6_XfE.mp3" />
+      <category>Esta es la categoria</category>
+      <pubDate>29-10-2017 07:59</pubDate>
+    </item>
+    <item>
+      <title>Exponential Energy | Ramez Naam | SingularityU South Africa</title>
+      <link>http://labx.cz/podcast/files/fwSkQa1tNmE.mp3</link>
+      <guid>http://labx.cz/podcast/files/fwSkQa1tNmE.mp3</guid>
+      <description>Esta es la descripcion</description>
+      <enclosure length="1" type="audio/mpeg" url="http://labx.cz/podcast/files/fwSkQa1tNmE.mp3" />
+      <category>Esta es la categoria</category>
+      <pubDate>01-11-2017 12:09</pubDate>
+    </item>
+  </channel>
+</rss>
